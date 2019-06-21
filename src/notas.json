@@ -1,0 +1,27 @@
+{
+"notas":
+		[ 
+			{"titulo":"Nota 1",
+			 "nota":"Instalar actualizaciones del sistema",
+			 "fecha":"20/06/2019"
+
+			},
+			{"titulo":"Nota 2",
+			 "nota":"Llamar al taller",
+			 "fecha":"20/06/2019"
+
+			},
+			{"titulo":"Nota 3",
+			 "nota": "Escribir post para el blog...",
+			 "fecha":"20/06/2019"
+
+			},
+			{"titulo":"Nota 4",
+			 "nota": "Comprar una tablet",
+			 "fecha":"20/06/2019"
+
+			}
+
+]
+
+}
